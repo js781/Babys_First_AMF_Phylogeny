@@ -40,3 +40,26 @@ applegatei, to whom share an obligate symbiosis. We wish to expand known knowled
 research provides more insight into species interactions, then people may better understand how to specifically expand applegatei's population count. I
 opt to this in case others wish for its extant persistence.
 
+#2nd commit a588e223d7a4022050f6c97ac836f4e7a8553d99
+#2nd edit for v1 on 1125 PST 7 Nov 2022
+#edit.id=js781
+
+#LIST TO WRITE
+data sources-review
+bioinformatics tools - with citations
+
+Header: Data Sources from Banyuasin and Klamath Falls Sites
+Body: B sites data were pulled from Sefrila et al. 2021 article called "Diversity and abundanceof arbuscular fungi mycorrhizal (AMF) in rhizosphere Zea
+mays in tidal swamp." Genus and species names were searched within the MaarjAM database from Öpik et al. 2010. The resulting 18S sequence data was curated
+into fasta files for R. 
+
+Body: KF sites data were sourced from the Klamath Falls fields. Raw 18S sequence datas were collected back from Argonne National Laboratory in Illinois.
+The sequences were trimmed and processed for least amount of sequence artifacts. These sequences were searched within the MaarjAM database as well. The
+two file libraries were curated into an Microsoft Excel spreadsheet. The taxon ranks in the spreadsheet were used to inform grouping within Python code, 
+with the help of the ETE toolkit. 
+
+
+
+
+
+
