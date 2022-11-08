@@ -58,8 +58,30 @@ The sequences were trimmed and processed for least amount of sequence artifacts.
 two file libraries were curated into an Microsoft Excel spreadsheet. The taxon ranks in the spreadsheet were used to inform grouping within Python code, 
 with the help of the ETE toolkit. 
 
+#LIST TO WRITE
+bioinformatics tools - with citations-review
 
+#3rd commit 2fc0b59cfb78bceae25eccd6abe3fa146fb56d2f
 
+#3rd edit for v2 on 2325 PST 7 Nov 2022
+#edit.id=js781
+
+Header: Klamath Falls site inspiration:
+Body: Barroetavena, Carolina, et al. “Mycorrhizal Status of the Endangered Species Astragalus Applegatei Peck as Determined from a Soil Bioassay.”
+Mycorrhiza, vol. 8, no. 2, Sept. 1998, pp. 117–19. DOI.org (Crossref), https://doi.org/10.1007/s005720050222.
+
+Header: Environment for Tree Exploration (ETE) toolkit:
+Body: Jaime Huerta-Cepas, Francois Serra and Peer Bork. ETE 3: Reconstruction, analysis and visualization of phylogenomic data. Mol Biol Evol 2016; doi:
+10.1093/molbev/msw046
+
+Header: Biopython library:
+Body: Peter J. A. Cock, Tiago Antao, Jeffrey T. Chang, Brad A. Chapman, Cymon J. Cox, Andrew Dalke, Iddo Friedberg, Thomas Hamelryck, Frank Kauff, Bartek
+Wilczynski, Michiel J. L. de Hoon: “Biopython: freely available Python tools for computational molecular biology and bioinformatics”. Bioinformatics 25
+(11), 1422–1423 (2009). https://doi.org/10.1093/bioinformatics/btp163
+
+Header: Indonesian site inspiration:
+Body: Sefrila, Marlin, Munif Ghulamahdi, and Purwono Purwono. “Diversity and Abundance of Arbuscular Fungi Mycorrhizal (AMF) in Rhizosphere Zea Mays in
+Tidal Swamp.” Biodiversitas Journal of Biological Diversity 22, no. 11 (November 1, 2021). https://doi.org/10.13057/biodiv/d221144.
 
 
 
